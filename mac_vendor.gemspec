@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'mac_vendor'
-  s.version     = '0.0.2'
-  s.date        = '2013-11-12'
+  s.version     = '0.0.3'
+  s.date        = '2017-01-18'
   s.license     = "MIT"
   s.summary     = "MAC address vendor lookup"
   s.description = "Given a MAC address, lookup the vendor of the interface."
